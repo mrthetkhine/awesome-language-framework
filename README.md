@@ -54,3 +54,6 @@ Swift
 https://github.com/matteocrippa/awesome-swift
 https://github.com/Wolg/awesome-swift
 https://github.com/hsavit1/Awesome-Swift-Education
+
+Elixir
+https://github.com/h4cc/awesome-elixir
